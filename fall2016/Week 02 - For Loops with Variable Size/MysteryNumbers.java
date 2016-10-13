@@ -1,5 +1,7 @@
+// Practice It 3.6
+// http://practiceit.cs.washington.edu/problem/view/bjp4/chapter3/s6%2DparameterMysteryNumbers
 // What is the output of the following program?
-public class MysterySentence {
+public class MysteryNumbers {
 	public static void main(String[] args) {
 		String one = "two";
 		String two = "three";
